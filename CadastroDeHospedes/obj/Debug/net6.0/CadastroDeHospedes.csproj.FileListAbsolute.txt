@@ -1,0 +1,14 @@
+C:\Users\pls_r\source\repos\CadastroDeHospedes\CadastroDeHospedes\bin\Debug\net6.0\CadastroDeHospedes.exe
+C:\Users\pls_r\source\repos\CadastroDeHospedes\CadastroDeHospedes\bin\Debug\net6.0\CadastroDeHospedes.deps.json
+C:\Users\pls_r\source\repos\CadastroDeHospedes\CadastroDeHospedes\bin\Debug\net6.0\CadastroDeHospedes.runtimeconfig.json
+C:\Users\pls_r\source\repos\CadastroDeHospedes\CadastroDeHospedes\bin\Debug\net6.0\CadastroDeHospedes.dll
+C:\Users\pls_r\source\repos\CadastroDeHospedes\CadastroDeHospedes\bin\Debug\net6.0\CadastroDeHospedes.pdb
+C:\Users\pls_r\source\repos\CadastroDeHospedes\CadastroDeHospedes\obj\Debug\net6.0\CadastroDeHospedes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pls_r\source\repos\CadastroDeHospedes\CadastroDeHospedes\obj\Debug\net6.0\CadastroDeHospedes.AssemblyInfoInputs.cache
+C:\Users\pls_r\source\repos\CadastroDeHospedes\CadastroDeHospedes\obj\Debug\net6.0\CadastroDeHospedes.AssemblyInfo.cs
+C:\Users\pls_r\source\repos\CadastroDeHospedes\CadastroDeHospedes\obj\Debug\net6.0\CadastroDeHospedes.csproj.CoreCompileInputs.cache
+C:\Users\pls_r\source\repos\CadastroDeHospedes\CadastroDeHospedes\obj\Debug\net6.0\CadastroDeHospedes.dll
+C:\Users\pls_r\source\repos\CadastroDeHospedes\CadastroDeHospedes\obj\Debug\net6.0\refint\CadastroDeHospedes.dll
+C:\Users\pls_r\source\repos\CadastroDeHospedes\CadastroDeHospedes\obj\Debug\net6.0\CadastroDeHospedes.pdb
+C:\Users\pls_r\source\repos\CadastroDeHospedes\CadastroDeHospedes\obj\Debug\net6.0\CadastroDeHospedes.genruntimeconfig.cache
+C:\Users\pls_r\source\repos\CadastroDeHospedes\CadastroDeHospedes\obj\Debug\net6.0\ref\CadastroDeHospedes.dll
